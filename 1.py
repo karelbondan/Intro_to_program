@@ -6,5 +6,6 @@ Created on Mon Sep 21 12:37:57 2020
 """
 
 degrees = eval(input("Enter number= "))
+radians = degrees*3.14/180
 print("Degrees:", degrees)
 print("Radians:", degrees*3.14/180)
